@@ -12,8 +12,9 @@
 
 ## Datasets
 
-- [Paris flood dataset](https://www.kaggle.com/datasets/grimespoint/paris-flood-dataset). A tabular dataset that provides 125+ years of daily maximum water level measurements (1900–February 2026) from hydrometric stations monitoring the Seine River at Paris Austerlitz. Data collected via the official Hub'Eau API and formatted as a clean, chronologically ordered CSV file that includes 53,332 records with minimal gaps and no artificial interpolation.
+- [Paris flood dataset](https://www.kaggle.com/datasets/grimespoint/paris-flood-dataset). A tabular dataset that provides 125+ years of daily maximum water level measurements (1900 to February 2026 for the initial release) from hydrometric stations monitoring the Seine River at Paris Austerlitz. Data collected via the official Hub'Eau API and formatted as a clean, chronologically ordered CSV file that includes 53,000+ records with minimal gaps and no artificial interpolation.
   - Related project: [Fluctuat nec mergitur](https://github.com/brooks-code/paris-flood-dataset)
+  - > The Kaggle dataset updates weekly thanks to an [automated pipeline](https://www.kaggle.com/code/grimespoint/paris-flood-dataset-weekly-updater). 
 
 - [Fallout: New Vegas, the dataset](https://www.kaggle.com/datasets/grimespoint/fallout-new-vegas-dataset). A narrative corpus with speaker and other metadata tagged text entries containing mostly dialogues mined from the game. This 59415 entries rich dataset enables NLP and game design researchers to unlock their post-apocalyptic storytelling potential and other advanced language modeling perks.
   - Related project: [Fallout New Vegas papyrus](https://github.com/brooks-code/new-vegas-papyri)
