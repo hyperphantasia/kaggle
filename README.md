@@ -22,7 +22,7 @@
 - [French rare words lexicon](https://www.kaggle.com/datasets/grimespoint/french-unusual-words): a CSV of 9351 uncommon French words annotated with gender, lemma, phonological transcription, frequency index, and dictionary definitions for NLP, lexicography, and language‑learning research.
   - Related project: [dailyword](https://github.com/hyperphantasia/fuzzy-carnival)
 
-- [Toulouse public libraries loans dataset](https://www.kaggle.com/datasets/grimespoint/toulouse-public-library-mdiathque-dataset): a CSV that contains annual circulation statistics and bibliographic metadata for print, music and movie items from the Toulouse public library collection. It is designed for analyzing lending trends, collection management, patron behavior, and media usage.
+- [Toulouse public libraries loans dataset](https://www.kaggle.com/datasets/grimespoint/toulouse-public-library-mdiathque-dataset): CSV and parquet datasets that contain 12+ years of annual circulation statistics and bibliographic metadata for print, music and movie items from the Toulouse public library collection. It is designed for analyzing lending trends, collection management, patron behavior, and media usage.
   - Related project: [Toulouse biblio chronicle](https://github.com/hyperphantasia/toulouse-biblio-chronicle)
   - > The Kaggle dataset updates yearly thanks to a [scheduled ETL pipeline](https://www.kaggle.com/code/grimespoint/toulouse-public-library-dataset-automatic-update). 
 
