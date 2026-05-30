@@ -24,6 +24,7 @@
 
 - [Toulouse public libraries loans dataset](https://www.kaggle.com/datasets/grimespoint/toulouse-public-library-mdiathque-dataset): a CSV that contains annual circulation statistics and bibliographic metadata for print, music and movie items from the Toulouse public library collection. It is designed for analyzing lending trends, collection management, patron behavior, and media usage.
   - Related project: [Toulouse biblio chronicle](https://github.com/brooks-code/toulouse-biblio-chronicle)
+  - > The Kaggle dataset updates weekly thanks to a [scheduled ETL pipeline](https://www.kaggle.com/code/grimespoint/toulouse-public-library-dataset-automatic-update). 
 
 ## Notebooks
 
