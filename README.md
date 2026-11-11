@@ -48,6 +48,8 @@
 
 - [Predicting road accidents](https://www.kaggle.com/competitions/playground-series-s5e10): Had the chance to learn more about residuals, ensembling and blending models. That's what we call a very close competition, ranked 328/4082.
 
+- [Autonomous Agent Prediction](https://www.kaggle.com/competitions/autonomous-agent-prediction-beta) challenged me on how well I can engineer an autonomous agent that excel at machine-learning tasks. Ranked 78/570.
+
 ---
 
 ![Banner Image](</img/machine_learning.png> "xkcd comic on machine learning.")
