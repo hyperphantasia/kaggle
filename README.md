@@ -12,6 +12,8 @@
 
 ## Datasets
 
+- [OpenAI bulk release of mathematical papers](https://www.kaggle.com/datasets/grimespoint/openai-bulk-release-of-mathematical-papers-dataset). A tabular CSV that catalogs 721 machine-generated mathematical papers, linking summaries and classifications to related result families, original PDFs and Lean formalization.
+
 - [Paris flood dataset](https://www.kaggle.com/datasets/grimespoint/paris-flood-dataset). A tabular dataset that provides 125+ years of daily maximum water level measurements (starting from Jan. 1900) from hydrometric stations monitoring the Seine River at Paris Austerlitz. Data collected via the official Hub'Eau API and formatted as a clean, chronologically ordered CSV file that includes 53,000+ records with minimal gaps and no artificial interpolation.
   - Related project: [Fluctuat nec mergitur](https://github.com/hyperphantasia/paris-flood-dataset)
   - > The Kaggle dataset updates weekly thanks to an [automated pipeline](https://www.kaggle.com/code/grimespoint/paris-flood-dataset-weekly-updater).
@@ -27,6 +29,8 @@
   - > The Kaggle dataset updates yearly thanks to a [scheduled ETL pipeline](https://www.kaggle.com/code/grimespoint/toulouse-public-library-dataset-automatic-update).
 
 ## Notebooks
+
+- An [analysis notebook](https://www.kaggle.com/code/grimespoint/openai-math-research-catalog-exploration) that combines several approaches to explore the OpenAI math dataset: compares OpenAI’s subject labels with MSC 2020 mathematical classifications, groups MSC sections into communities, uses text analytics to examine abstracts and descriptions, extracts keywords and classifies the kinds of claims made.
 
 - Learn ETL pipeline development and data engineering best practices by building a [production-ready automated system](https://www.kaggle.com/code/grimespoint/data-engineering-with-python-etl-pipeline) that fetches, transforms, and publishes Paris Seine river hydrometric data to Kaggle. Now also a [fCC tutorial](https://www.freecodecamp.org/news/the-etl-pipeline-handbook-how-to-build-a-production-grade-pipeline-in-python/)!
 
